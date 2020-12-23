@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MyMusic.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyMusic.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyMusic.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMusic.Core/1.0.0": {
+      "type": "project",
+      "path": "../MyMusic.Core/MyMusic.Core.csproj",
+      "msbuildProject": "../MyMusic.Core/MyMusic.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MyMusic.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alex2\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alex2\\Desktop\\plantilla\\MyMusic.Services\\MyMusic.Services.csproj",
+      "projectName": "MyMusic.Services",
+      "projectPath": "C:\\Users\\alex2\\Desktop\\plantilla\\MyMusic.Services\\MyMusic.Services.csproj",
+      "packagesPath": "C:\\Users\\alex2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alex2\\Desktop\\plantilla\\MyMusic.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alex2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\alex2\\Desktop\\plantilla\\MyMusic.Core\\MyMusic.Core.csproj": {
+              "projectPath": "C:\\Users\\alex2\\Desktop\\plantilla\\MyMusic.Core\\MyMusic.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

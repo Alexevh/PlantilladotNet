@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyMusic.Services/1.0.0": {
+        "dependencies": {
+          "MyMusic.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyMusic.Services.dll": {}
+        }
+      },
+      "MyMusic.Core/1.0.0": {
+        "runtime": {
+          "MyMusic.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMusic.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMusic.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

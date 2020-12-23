@@ -1,0 +1,15 @@
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csprojAssemblyReference.cache
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfo.cs
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.deps.json
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.dll
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.pdb
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.dll
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.pdb
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CopyComplete
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.dll
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\alex2\Desktop\plantilla\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.pdb
